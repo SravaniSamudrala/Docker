@@ -1,0 +1,6 @@
+FROM ubuntu 
+RUN mkdir sravani
+ENTRYPOINT "echo"
+CMD "sravani folder is created"
+ENTRYPOINT "echo"
+CMD "HELLO WORLD...!"
